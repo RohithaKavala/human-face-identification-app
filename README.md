@@ -48,6 +48,21 @@ human-face-identification-app/
 
 ---
 
+
+## 📸 Application Output
+
+### Uploaded Image
+
+<img width="933" height="807" alt="Screenshot 2026-06-18 222309" src="https://github.com/user-attachments/assets/53a8cd7f-6290-42df-b074-70cb4b2d3eff" />
+
+
+### Face Detection Result
+
+<img width="1062" height="787" alt="Screenshot 2026-06-18 222340" src="https://github.com/user-attachments/assets/9b8d7df5-3ae8-4e5d-9336-92f1d4fa131c" />
+
+
+---
+
 ## ⚙️ How It Works
 
 ### Step 1
@@ -83,19 +98,6 @@ These parameters help fine-tune face detection accuracy.
 
 ---
 
-## 📸 Application Output
-
-### Uploaded Image
-
-<img width="933" height="807" alt="Screenshot 2026-06-18 222309" src="https://github.com/user-attachments/assets/53a8cd7f-6290-42df-b074-70cb4b2d3eff" />
-
-
-### Face Detection Result
-
-<img width="1062" height="787" alt="Screenshot 2026-06-18 222340" src="https://github.com/user-attachments/assets/9b8d7df5-3ae8-4e5d-9336-92f1d4fa131c" />
-
-
----
 
 ##  Installation
 
@@ -122,19 +124,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project, I explored:
-
-* Computer Vision
-* Face Detection
-* OpenCV Haar Cascades
-* Image Processing
-* Streamlit Development
-* Interactive AI Applications
 
 ---
 
